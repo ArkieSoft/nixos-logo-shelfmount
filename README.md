@@ -1,7 +1,12 @@
 # NixOS Logo Mounted Shelfmount
 
 This is a basic design for a NixOS logo and fits on the post slots for some shelving I have.
-[image](images/finished.jpg)
+
+<picture>
+  <source
+    srcset-"images/finished.jpg" />
+</picture>
+
 Steps to printing.
 
 1. Find colors you want for the individual Lambdas (I picked pastel pink and lavender)
